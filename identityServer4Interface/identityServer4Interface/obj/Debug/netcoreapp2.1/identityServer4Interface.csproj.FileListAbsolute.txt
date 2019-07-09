@@ -1,0 +1,3 @@
+C:\00 devData\00 dropBox\Dropbox\00 ReposVM\00 novari\identityServer4OnDocker\identityServer4Interface\identityServer4Interface\obj\Debug\netcoreapp2.1\identityServer4Interface.csproj.CoreCompileInputs.cache
+C:\00 devData\00 dropBox\Dropbox\00 ReposVM\00 novari\identityServer4OnDocker\identityServer4Interface\identityServer4Interface\obj\Debug\netcoreapp2.1\identityServer4Interface.AssemblyInfoInputs.cache
+C:\00 devData\00 dropBox\Dropbox\00 ReposVM\00 novari\identityServer4OnDocker\identityServer4Interface\identityServer4Interface\obj\Debug\netcoreapp2.1\identityServer4Interface.AssemblyInfo.cs
