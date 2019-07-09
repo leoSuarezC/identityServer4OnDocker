@@ -1,3 +1,15 @@
 C:\00 devData\00 dropBox\Dropbox\00 ReposVM\00 novari\identityServer4OnDocker\identityServer4Interface\identityServer4Interface\obj\Debug\netcoreapp2.1\identityServer4Interface.csproj.CoreCompileInputs.cache
 C:\00 devData\00 dropBox\Dropbox\00 ReposVM\00 novari\identityServer4OnDocker\identityServer4Interface\identityServer4Interface\obj\Debug\netcoreapp2.1\identityServer4Interface.AssemblyInfoInputs.cache
 C:\00 devData\00 dropBox\Dropbox\00 ReposVM\00 novari\identityServer4OnDocker\identityServer4Interface\identityServer4Interface\obj\Debug\netcoreapp2.1\identityServer4Interface.AssemblyInfo.cs
+C:\00 devData\00 dropBox\Dropbox\00 ReposVM\00 novari\identityServer4OnDocker\identityServer4Interface\identityServer4Interface\bin\Debug\netcoreapp2.1\identityServer4Interface.deps.json
+C:\00 devData\00 dropBox\Dropbox\00 ReposVM\00 novari\identityServer4OnDocker\identityServer4Interface\identityServer4Interface\bin\Debug\netcoreapp2.1\identityServer4Interface.runtimeconfig.json
+C:\00 devData\00 dropBox\Dropbox\00 ReposVM\00 novari\identityServer4OnDocker\identityServer4Interface\identityServer4Interface\bin\Debug\netcoreapp2.1\identityServer4Interface.runtimeconfig.dev.json
+C:\00 devData\00 dropBox\Dropbox\00 ReposVM\00 novari\identityServer4OnDocker\identityServer4Interface\identityServer4Interface\bin\Debug\netcoreapp2.1\identityServer4Interface.dll
+C:\00 devData\00 dropBox\Dropbox\00 ReposVM\00 novari\identityServer4OnDocker\identityServer4Interface\identityServer4Interface\bin\Debug\netcoreapp2.1\identityServer4Interface.pdb
+C:\00 devData\00 dropBox\Dropbox\00 ReposVM\00 novari\identityServer4OnDocker\identityServer4Interface\identityServer4Interface\obj\Debug\netcoreapp2.1\identityServer4Interface.csprojAssemblyReference.cache
+C:\00 devData\00 dropBox\Dropbox\00 ReposVM\00 novari\identityServer4OnDocker\identityServer4Interface\identityServer4Interface\obj\Debug\netcoreapp2.1\identityServer4Interface.RazorAssemblyInfo.cache
+C:\00 devData\00 dropBox\Dropbox\00 ReposVM\00 novari\identityServer4OnDocker\identityServer4Interface\identityServer4Interface\obj\Debug\netcoreapp2.1\identityServer4Interface.RazorAssemblyInfo.cs
+C:\00 devData\00 dropBox\Dropbox\00 ReposVM\00 novari\identityServer4OnDocker\identityServer4Interface\identityServer4Interface\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\00 devData\00 dropBox\Dropbox\00 ReposVM\00 novari\identityServer4OnDocker\identityServer4Interface\identityServer4Interface\obj\Debug\netcoreapp2.1\identityServer4Interface.RazorTargetAssemblyInfo.cache
+C:\00 devData\00 dropBox\Dropbox\00 ReposVM\00 novari\identityServer4OnDocker\identityServer4Interface\identityServer4Interface\obj\Debug\netcoreapp2.1\identityServer4Interface.dll
+C:\00 devData\00 dropBox\Dropbox\00 ReposVM\00 novari\identityServer4OnDocker\identityServer4Interface\identityServer4Interface\obj\Debug\netcoreapp2.1\identityServer4Interface.pdb
